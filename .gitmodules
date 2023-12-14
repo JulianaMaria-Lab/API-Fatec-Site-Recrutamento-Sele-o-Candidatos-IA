@@ -1,0 +1,12 @@
+[submodule "python_web_scraping"]
+	path = python_web_scraping
+	url = https://github.com/JulianaMaria-Lab/recrutatech-python-web-scraping.git
+[submodule "vue_frontend"]
+	path = vue_frontend
+	url = https://github.com/JulianaMaria-Lab/recrutatech-vue-frontend.git
+[submodule "spring_backend"]
+	path = spring_backend
+	url = https://github.com/JulianaMaria-Lab/recrutatech-spring-backend.git
+[submodule "openai_chat_gpt"]
+	path = openai_chat_gpt
+	url = https://github.com/JulianaMaria-Lab/recrutatech-openai-chat-gpt.git
